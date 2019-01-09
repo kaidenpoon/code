@@ -1,0 +1,1 @@
+let statusBar = UIApplication.shared.value(forKeyPath:"statusBarWindow.statusBar") as? UIView
